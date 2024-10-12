@@ -44,7 +44,7 @@ export default function AboutUs (){
                                             </div>
 
                                             <div className={styles.newsDiv_block_second_right_bottom}>
-                                                <p className={styles.newsDiv_block_paragraph}>Satchit Foundation's mission is to empower marginalized communities through education and skill development for self-reliance.</p>
+                                                <p className={styles.newsDiv_block_paragraph}>Satchit Foundation&apos; mission is to empower marginalized communities through education and skill development for self-reliance.</p>
                                             </div>
                                     </div>
                                     {/* <br/> we run a school and implement various developmental activities in 50 villages, aiming to provide quality education and reduce rural migration. */}
@@ -58,7 +58,7 @@ export default function AboutUs (){
                                         </div>
 
                                         <div className={styles.newsDiv_block_left_bottom}>
-                                            <p className={styles.newsDiv_block_paragraph}>Satchit Foundation's vision is to create a society where individuals achieve self-reliance and lead dignified lives through education and empowerment</p>
+                                            <p className={styles.newsDiv_block_paragraph}>Satchit Foundation&apos; vision is to create a society where individuals achieve self-reliance and lead dignified lives through education and empowerment</p>
                                         </div>
                                 </div>
                                 <div className={styles.newsDiv_block_right}>
